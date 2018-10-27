@@ -1,0 +1,59 @@
+body{
+    background: lightblue;
+}
+h3{
+    font-size: 30px;
+    color: antiquewhite;
+    background: orange;
+    width: 35%;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+}
+#instructions{
+    color: green;
+    background: tan;
+    width: 50%;
+    height: 400px;
+    font-size: 20px;
+}
+p{
+    padding: 10px 5px 10px 10px;
+}
+#target{
+    width: 30%;
+    height: 80px;
+    color: purple;
+    background: lightgreen;
+    margin-right:10px;
+    font-size:20px;
+    
+}
+#wins_losses{
+    background: teal;
+    width: 20%;
+    height: 80px;
+    color:white;
+    
+
+}
+#score_header{
+    margin-top:5px;
+    width: 40%;
+    color:white;
+    background: darkgreen;
+}
+#score{
+    font-size: 25px;
+    width:40%;
+    height:100px;
+    color:white;
+    background: darkgreen;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 10px 10px 10px 10px;
+}
+.container{
+    display: flex;
+}
